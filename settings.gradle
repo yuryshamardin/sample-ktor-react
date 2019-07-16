@@ -1,0 +1,4 @@
+rootProject.name = 'kotlin-web'
+include 'ktor'
+include 'ktor-ui'
+
